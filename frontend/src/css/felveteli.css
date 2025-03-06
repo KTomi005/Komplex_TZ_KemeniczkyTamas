@@ -3,7 +3,7 @@ body{
 }
 
 .bg-fej {
-
+  background-image: url('oktatas-01.jpg');
   background-position: center;
   height: 400px;
 
@@ -28,7 +28,7 @@ body{
 }
 
 .bg-torzs {
-
+  background-color: #c5c599;
   align-content: center;
 }
 
